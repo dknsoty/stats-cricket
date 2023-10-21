@@ -1102,3 +1102,121 @@ a:focus {
   /* adjust the width*/
   width: 100%;
 }
+
+@media ( max-width:2000px) {
+   .objecte{
+  
+  flex-direction:column;
+  flex-direction:row;
+  width: 85vw;
+  height:46vw; 
+     padding-left:50px;
+  padding-right:50px;
+   }
+
+
+
+@media ( max-width:1800px) {
+   .objecte{
+  
+  flex-direction:column;
+  flex-direction:row;
+  width: 85vw;
+  height:46vw; 
+     padding-left:50px;
+  padding-right:50px;
+   }
+
+
+@media ( max-width:1600px) {
+   .objecte{
+  
+  flex-direction:column;
+  flex-direction:row;
+  width: 85vw;
+  height:46vw; 
+     padding-left:50px;
+  padding-right:50px;
+   }
+  
+
+@media ( max-width:1400px) {
+   .objecte{
+  
+  flex-direction:column;
+  flex-direction:row;
+  width: 85vw;
+  height:46vw; 
+     padding-left:50px;
+  padding-right:50px;
+   }
+  
+  @media ( max-width:1200px) {
+   .objecte{
+  
+  flex-direction:column;
+  flex-direction:row;
+  width: 85vw;
+  height:46vw; 
+     padding-left:15px;
+  padding-right:15px;
+   }
+    
+ @media ( max-width:767px) {
+   .objecte{
+  
+  flex-direction:column;
+     flex-direction:row;
+  width: 85vw;
+  height:46vw; 
+     padding-left:15px;
+  padding-right:15px;
+   }
+
+     @media ( max-width:576px) {
+   .objecte{
+  
+  flex-direction:column;
+     flex-direction:row;
+  width: 85vw;
+  height:46vw; 
+     padding-left:15px;
+  padding-right:15px;
+   }
+
+   @media ( max-width:480px) {
+   .objecte{
+  
+  flex-direction:column;
+     flex-direction:row;
+  width: 85vw;
+  height:46vw;
+     padding-left:15px;
+  padding-right:15px;
+   }
+
+   @media ( max-width:420px) {
+   .objecte{
+  
+  flex-direction:column;
+     flex-direction:row;
+  width: 85vw;
+  height:46vw; 
+  padding-left:15px;
+  padding-right:15px;
+   }
+
+   @media ( max-width:376) {
+   .objecte{
+  
+  flex-direction:column;
+     flex-direction:row;
+  width: 85vw;
+  height:46vw;
+  padding-left:15px;
+  padding-right:15px;
+   }
+    
+    
+  
+
